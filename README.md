@@ -15,3 +15,4 @@ Branch
 2014 Git Training
 
 Rebase example
+Add a second rebase example.
