@@ -13,3 +13,5 @@ asdfdsfasdf
 Branch
 ## Copyright
 2014 Git Training
+
+Rebase example
