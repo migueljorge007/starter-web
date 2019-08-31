@@ -16,3 +16,5 @@ Branch
 
 Rebase example
 Add a second rebase example.
+
+Emergency fix for stash
