@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 Blah Blah 
 asdfadsfasdf
 asdfdsfasdf
+
+## Copyright
+2014 Git Training
